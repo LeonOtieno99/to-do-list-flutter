@@ -1,3 +1,6 @@
+![Screenshot from 2024-04-22 14-02-01](https://github.com/LeonOtieno99/to-do-list-flutter/assets/125243857/d0ed04e7-c0c3-4339-b134-3fe39567893e)
+
+
 # todolist
 
 A new Flutter project.
